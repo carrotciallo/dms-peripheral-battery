@@ -98,7 +98,7 @@ PluginComponent {
         if (percentage <= 15)
             return Theme.error;
         if (percentage <= 30)
-            return Theme.tertiary;
+            return Theme.warning;
         return Theme.surfaceText;
     }
 
