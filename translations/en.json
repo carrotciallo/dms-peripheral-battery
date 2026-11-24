@@ -1,0 +1,116 @@
+{
+  "Peripherals": {
+    "Peripherals": "Peripherals"
+  },
+  "No peripheral reported": {
+    "No peripheral reported": "No peripheral reported"
+  },
+  "%1 device(s)": {
+    "%1 device(s)": "%1 device(s)"
+  },
+  "%1 hidden": {
+    "%1 hidden": "%1 hidden"
+  },
+  "%1 device(s) hidden by threshold": {
+    "%1 device(s) hidden by threshold": "%1 device(s) hidden by threshold"
+  },
+  "Every peripheral is at or above %1%. Raise the threshold or turn off \"Only show low battery\".": {
+    "Every peripheral is at or above %1%. Raise the threshold or turn off \"Only show low battery\".": "Every peripheral is at or above %1%. Raise the threshold or turn off \"Only show low battery\"."
+  },
+  "No peripheral device reports a battery level.\nBluetooth peripherals appear here only when the kernel or BlueZ exposes a battery interface.": {
+    "No peripheral device reports a battery level.\nBluetooth peripherals appear here only when the kernel or BlueZ exposes a battery interface.": "No peripheral device reports a battery level.\nBluetooth peripherals appear here only when the kernel or BlueZ exposes a battery interface."
+  },
+  "Keyboard": {
+    "Keyboard": "Keyboard"
+  },
+  "Mouse": {
+    "Mouse": "Mouse"
+  },
+  "Touchpad": {
+    "Touchpad": "Touchpad"
+  },
+  "Headphones": {
+    "Headphones": "Headphones"
+  },
+  "Headset": {
+    "Headset": "Headset"
+  },
+  "Speakers": {
+    "Speakers": "Speakers"
+  },
+  "GamingInput": {
+    "GamingInput": "GamingInput"
+  },
+  "Phone": {
+    "Phone": "Phone"
+  },
+  "Tablet": {
+    "Tablet": "Tablet"
+  },
+  "MediaPlayer": {
+    "MediaPlayer": "MediaPlayer"
+  },
+  "Wearable": {
+    "Wearable": "Wearable"
+  },
+  "Pen": {
+    "Pen": "Pen"
+  },
+  "BluetoothGeneric": {
+    "BluetoothGeneric": "BluetoothGeneric"
+  },
+  "Other": {
+    "Other": "Other"
+  },
+  "Charging": {
+    "Charging": "Charging"
+  },
+  "Discharging": {
+    "Discharging": "Discharging"
+  },
+  "Empty": {
+    "Empty": "Empty"
+  },
+  "FullyCharged": {
+    "FullyCharged": "FullyCharged"
+  },
+  "PendingCharge": {
+    "PendingCharge": "PendingCharge"
+  },
+  "PendingDischarge": {
+    "PendingDischarge": "PendingDischarge"
+  },
+  "Unknown": {
+    "Unknown": "Unknown"
+  },
+  "Peripheral Battery": {
+    "Peripheral Battery": "Peripheral Battery"
+  },
+  "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller). USB peripherals work out of the box; Bluetooth peripherals only appear once the kernel or BlueZ exposes a battery interface for them.": {
+    "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller). USB peripherals work out of the box; Bluetooth peripherals only appear once the kernel or BlueZ exposes a battery interface for them.": "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller). USB peripherals work out of the box; Bluetooth peripherals only appear once the kernel or BlueZ exposes a battery interface for them."
+  },
+  "Show percentage": {
+    "Show percentage": "Show percentage"
+  },
+  "Display the numeric battery level next to the icon": {
+    "Display the numeric battery level next to the icon": "Display the numeric battery level next to the icon"
+  },
+  "Hide when no device": {
+    "Hide when no device": "Hide when no device"
+  },
+  "Hide the widget entirely while no peripheral reports a battery": {
+    "Hide the widget entirely while no peripheral reports a battery": "Hide the widget entirely while no peripheral reports a battery"
+  },
+  "Only show low battery": {
+    "Only show low battery": "Only show low battery"
+  },
+  "Hide every device whose battery is at or above the threshold below": {
+    "Hide every device whose battery is at or above the threshold below": "Hide every device whose battery is at or above the threshold below"
+  },
+  "Low battery threshold": {
+    "Low battery threshold": "Low battery threshold"
+  },
+  "Devices at or above this level are hidden while \"Only show low battery\" is on.": {
+    "Devices at or above this level are hidden while \"Only show low battery\" is on.": "Devices at or above this level are hidden while \"Only show low battery\" is on."
+  }
+}

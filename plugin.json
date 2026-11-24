@@ -1,0 +1,18 @@
+{
+    "author": "carrot",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "component": "./PeripheralBatteryWidget.qml",
+    "description": "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller), bypassing the laptop-battery gate so it works on desktops too.",
+    "icon": "battery_5_bar",
+    "id": "peripheralBattery",
+    "name": "Peripheral Battery",
+    "permissions": [
+        "settings_read",
+        "settings_write"
+    ],
+    "settings": "./PeripheralBatterySettings.qml",
+    "type": "widget",
+    "version": "1.0.0"
+}

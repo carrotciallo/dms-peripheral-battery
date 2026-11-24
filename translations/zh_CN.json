@@ -1,0 +1,116 @@
+{
+  "Peripherals": {
+    "Peripherals": "外设"
+  },
+  "No peripheral reported": {
+    "No peripheral reported": "未检测到外设"
+  },
+  "%1 device(s)": {
+    "%1 device(s)": "%1 个设备"
+  },
+  "%1 hidden": {
+    "%1 hidden": "已隐藏 %1 个"
+  },
+  "%1 device(s) hidden by threshold": {
+    "%1 device(s) hidden by threshold": "%1 个设备被阈值隐藏"
+  },
+  "Every peripheral is at or above %1%. Raise the threshold or turn off \"Only show low battery\".": {
+    "Every peripheral is at or above %1%. Raise the threshold or turn off \"Only show low battery\".": "所有外设电量都在 %1% 及以上。请调高阈值或关闭「仅显示低电量」。"
+  },
+  "No peripheral device reports a battery level.\nBluetooth peripherals appear here only when the kernel or BlueZ exposes a battery interface.": {
+    "No peripheral device reports a battery level.\nBluetooth peripherals appear here only when the kernel or BlueZ exposes a battery interface.": "没有外设上报电量。\n蓝牙外设只有在内核或 BlueZ 暴露了电量接口之后才会出现在这里。"
+  },
+  "Keyboard": {
+    "Keyboard": "键盘"
+  },
+  "Mouse": {
+    "Mouse": "鼠标"
+  },
+  "Touchpad": {
+    "Touchpad": "触摸板"
+  },
+  "Headphones": {
+    "Headphones": "耳机"
+  },
+  "Headset": {
+    "Headset": "耳麦"
+  },
+  "Speakers": {
+    "Speakers": "音箱"
+  },
+  "GamingInput": {
+    "GamingInput": "游戏手柄"
+  },
+  "Phone": {
+    "Phone": "手机"
+  },
+  "Tablet": {
+    "Tablet": "平板"
+  },
+  "MediaPlayer": {
+    "MediaPlayer": "播放器"
+  },
+  "Wearable": {
+    "Wearable": "穿戴设备"
+  },
+  "Pen": {
+    "Pen": "触控笔"
+  },
+  "BluetoothGeneric": {
+    "BluetoothGeneric": "蓝牙设备"
+  },
+  "Other": {
+    "Other": "其他"
+  },
+  "Charging": {
+    "Charging": "充电中"
+  },
+  "Discharging": {
+    "Discharging": "放电中"
+  },
+  "Empty": {
+    "Empty": "电量耗尽"
+  },
+  "FullyCharged": {
+    "FullyCharged": "已充满"
+  },
+  "PendingCharge": {
+    "PendingCharge": "待充电"
+  },
+  "PendingDischarge": {
+    "PendingDischarge": "待放电"
+  },
+  "Unknown": {
+    "Unknown": "未知"
+  },
+  "Peripheral Battery": {
+    "Peripheral Battery": "外设电量"
+  },
+  "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller). USB peripherals work out of the box; Bluetooth peripherals only appear once the kernel or BlueZ exposes a battery interface for them.": {
+    "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller). USB peripherals work out of the box; Bluetooth peripherals only appear once the kernel or BlueZ exposes a battery interface for them.": "直接从 UPower 读取外设电量（键盘、鼠标、耳麦、手柄）。USB 外设开箱即用；蓝牙外设需要内核或 BlueZ 暴露电量接口后才会出现。"
+  },
+  "Show percentage": {
+    "Show percentage": "显示百分比"
+  },
+  "Display the numeric battery level next to the icon": {
+    "Display the numeric battery level next to the icon": "在图标旁显示电量数字"
+  },
+  "Hide when no device": {
+    "Hide when no device": "无设备时隐藏"
+  },
+  "Hide the widget entirely while no peripheral reports a battery": {
+    "Hide the widget entirely while no peripheral reports a battery": "没有任何外设上报电量时整体隐藏该组件"
+  },
+  "Only show low battery": {
+    "Only show low battery": "仅显示低电量"
+  },
+  "Hide every device whose battery is at or above the threshold below": {
+    "Hide every device whose battery is at or above the threshold below": "隐藏所有电量达到或超过下方阈值的设备"
+  },
+  "Low battery threshold": {
+    "Low battery threshold": "低电量阈值"
+  },
+  "Devices at or above this level are hidden while \"Only show low battery\" is on.": {
+    "Devices at or above this level are hidden while \"Only show low battery\" is on.": "「仅显示低电量」开启时，电量达到或超过此值的设备将被隐藏。"
+  }
+}
