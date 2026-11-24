@@ -108,6 +108,14 @@ PluginComponent {
         Row {
             spacing: Theme.spacingXS
 
+            DIcon {
+                visible: root.devices.length === 0
+                name: "battery_unknown"
+                size: Theme.iconSizeSmall
+                color: Theme.surfaceVariantText
+                anchors.verticalCenter: parent.verticalCenter
+            }
+
             Repeater {
                 model: root.devices
 
@@ -118,7 +126,7 @@ PluginComponent {
 
                     DIcon {
                         name: modelData.icon
-                        size: root.textSize + 2
+                        size: Theme.iconSizeSmall
                         color: root.colorFor(modelData.percentage, modelData.charging)
                         anchors.verticalCenter: parent.verticalCenter
                     }
@@ -149,7 +157,7 @@ PluginComponent {
 
             DIcon {
                 name: root.primary ? root.primary.icon : "battery_unknown"
-                size: root.textSize + 2
+                size: Theme.iconSizeSmall
                 color: root.primary ? root.colorFor(root.primary.percentage, root.primary.charging) : Theme.surfaceVariantText
                 anchors.horizontalCenter: parent.horizontalCenter
             }
@@ -164,7 +172,7 @@ PluginComponent {
         }
     }
 
-    popoutWidth: 340
+    popoutWidth: Theme.listItemHeight * 6
     popoutHeight: 0
 
     popoutContent: Component {
